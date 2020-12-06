@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There!
+
+I'm Marco. I'm a graduate student in economics at Paris School of Economics and Ecole des Ponts ParisTech.
+My main purpose of using Github is to note my classes and practice coding examples in books. Thank you!
 
 <!--
 **MarcoYou/MarcoYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
