@@ -1,6 +1,7 @@
 ### Hello There!
 
-지금까지는 공부한거 노트용으로 쓰는 깃헙입니당!
+Check my blog as well!
+
 
 <!--
 **MarcoYou/MarcoYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
