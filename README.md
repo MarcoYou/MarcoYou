@@ -8,6 +8,8 @@ I turn regulatory filings, governance disclosures, and market data into usable r
 ![Research](https://img.shields.io/badge/Research-Corporate%20Governance-8250df?style=flat-square)
 ![Building](https://img.shields.io/badge/Building-Public--data%20Tools-238636?style=flat-square)
 
+![Contribution snake](https://github.com/MarcoYou/.github-workflows/blob/output/github-contribution-grid-snake.svg)
+
 ## Selected work
 
 - **[OpenProxy MCP](https://github.com/MarcoYou/open-proxy-mcp)**  
