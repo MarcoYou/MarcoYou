@@ -29,8 +29,6 @@ If you work on ESG, quantitative investing, non-financial data, or tools for inv
 
 ## Activity
 
-![Contribution snake](https://github.com/MarcoYou/.github-workflows/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoYou&theme=github_dark" />
