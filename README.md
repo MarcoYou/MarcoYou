@@ -1,13 +1,15 @@
 ![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Quant%20Research%20%C2%B7%20Corporate%20Governance%20%C2%B7%20Climate%20Change&descAlignY=55&descSize=16)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Current-Securities%20Research-1f6feb?style=flat-square" alt="Current: Securities Research" />
+  <img src="https://img.shields.io/badge/Experience-VC%20%C2%B7%20Wealth%20Management%20%C2%B7%20Insurance-8250df?style=flat-square" alt="Experience: VC, Wealth Management, and Insurance" />
+  <img src="https://img.shields.io/badge/Based%20in-Seoul-238636?style=flat-square" alt="Based in Seoul" />
+  <img src="https://img.shields.io/badge/Previously-Paris%20%C2%B7%2010%2B%20years-d97706?style=flat-square" alt="Previously in Paris for more than 10 years" />
+</p>
+
 I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital, wealth management, and life insurance.
 
 I am currently based in Seoul after living in Paris for more than a decade.
-
-![Role](https://img.shields.io/badge/Role-ESG%20%26%20Quant%20Research-1f6feb?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-VC%20%C2%B7%20WM%20%C2%B7%20Life%20Insurance-8250df?style=flat-square)
-![Seoul](https://img.shields.io/badge/Based%20in-Seoul-238636?style=flat-square)
-![Paris](https://img.shields.io/badge/Previously-Paris%2010%2B%20years-d97706?style=flat-square)
 
 I work on methodologies that bring non-financial data into investment strategies, and on making the resulting data and research more accessible and useful to both the wider public and fund managers.
 
@@ -47,13 +49,10 @@ If you work on ESG, quantitative investing, non-financial data, or tools for inv
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoYou&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoYou&theme=github" alt="Marco You's GitHub stats" />
+    <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoYou&theme=github" alt="Marco You's GitHub stats" />
   </picture>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MarcoYou&theme=dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=MarcoYou&theme=default&hide_border=true" alt="Marco You's GitHub streak" />
+    <img width="58%" src="https://streak-stats.demolab.com?user=MarcoYou&theme=default&hide_border=true" alt="Marco You's GitHub streak" />
   </picture>
 </p>
