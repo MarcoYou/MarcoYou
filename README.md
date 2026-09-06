@@ -1,12 +1,15 @@
 ![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Quant%20Research%20%C2%B7%20Corporate%20Governance%20%C2%B7%20Climate%20Change&descAlignY=55&descSize=16)
 
-I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital.
+I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital, wealth management, and life insurance.
+
+I am currently based in Seoul after living in Paris for more than a decade.
+
+![Role](https://img.shields.io/badge/Role-ESG%20%26%20Quant%20Research-1f6feb?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-VC%20%C2%B7%20WM%20%C2%B7%20Life%20Insurance-8250df?style=flat-square)
+![Seoul](https://img.shields.io/badge/Based%20in-Seoul-238636?style=flat-square)
+![Paris](https://img.shields.io/badge/Previously-Paris%2010%2B%20years-d97706?style=flat-square)
 
 I work on methodologies that bring non-financial data into investment strategies, and on making the resulting data and research more accessible and useful to both the wider public and fund managers.
-
-![Role](https://img.shields.io/badge/Research-ESG%20%26%20Quant-1f6feb?style=flat-square)
-![Background](https://img.shields.io/badge/Background-Venture%20Capital-8250df?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Non--financial%20Data-238636?style=flat-square)
 
 ## Selected work
 
