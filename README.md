@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Previously-Paris-d97706?style=flat-square" alt="Previously in Paris" />
 </p>
 
-I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital, wealth management, and life insurance.
+I am an ESG and Quant research analyst at a Korean securities firm, with previous experience in venture capital, wealth management, and life insurance.
 
 I am currently based in Seoul after living in Paris for more than a decade.
 
