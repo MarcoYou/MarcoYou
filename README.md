@@ -11,7 +11,7 @@ I am an ESG and Quant research analyst at a Korean securities firm, with previou
 
 I am currently based in Seoul after living in Paris for more than a decade.
 
-I work on methodologies that bring non-financial data into investment strategies, and on making the resulting data and research more accessible and useful to both the wider public and fund managers.
+I work on methodologies that bring non-financial data into investment strategies, and on making the resulting data and research more accessible and useful to both the wider public and finance professionals.
 
 ## Selected work
 
