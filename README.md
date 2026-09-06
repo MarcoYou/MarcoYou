@@ -1,4 +1,4 @@
-![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=ESG%20%C2%B7%20Quant%20Research%20%C2%B7%20Non-financial%20Data&descAlignY=55&descSize=16)
+![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Quant%20Research%20%C2%B7%20Corporate%20Governance%20%C2%B7%20Climate%20Change&descAlignY=55&descSize=16)
 
 I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital.
 
