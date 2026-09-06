@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Current-Securities%20Research-1f6feb?style=flat-square" alt="Current: Securities Research" />
   <img src="https://img.shields.io/badge/Experience-VC%20%C2%B7%20Wealth%20Management%20%C2%B7%20Insurance-8250df?style=flat-square" alt="Experience: VC, Wealth Management, and Insurance" />
   <img src="https://img.shields.io/badge/Based%20in-Seoul-238636?style=flat-square" alt="Based in Seoul" />
-  <img src="https://img.shields.io/badge/Previously-Paris%20%C2%B7%2010%2B%20years-d97706?style=flat-square" alt="Previously in Paris for more than 10 years" />
+  <img src="https://img.shields.io/badge/Previously-Paris-d97706?style=flat-square" alt="Previously in Paris" />
 </p>
 
 I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital, wealth management, and life insurance.
