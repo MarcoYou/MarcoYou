@@ -1,10 +1,12 @@
-![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Research%20tools%20for%20Korean%20capital%20markets&descAlignY=55&descSize=16)
+![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=ESG%20%C2%B7%20Quant%20Research%20%C2%B7%20Non-financial%20Data&descAlignY=55&descSize=16)
 
-I turn regulatory filings, governance disclosures, and market data into usable research infrastructure for people and AI assistants.
+I am an ESG and quantitative research analyst at a Korean securities firm, with previous experience in venture capital.
 
-![Focus](https://img.shields.io/badge/Focus-Korean%20Capital%20Markets-1f6feb?style=flat-square)
-![Research](https://img.shields.io/badge/Research-Corporate%20Governance-8250df?style=flat-square)
-![Building](https://img.shields.io/badge/Building-Public--data%20Tools-238636?style=flat-square)
+I work on methodologies that bring non-financial data into investment strategies, and on making the resulting data and research more accessible and useful to both the wider public and fund managers.
+
+![Role](https://img.shields.io/badge/Research-ESG%20%26%20Quant-1f6feb?style=flat-square)
+![Background](https://img.shields.io/badge/Background-Venture%20Capital-8250df?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Non--financial%20Data-238636?style=flat-square)
 
 ## Selected work
 
@@ -20,7 +22,7 @@ I turn regulatory filings, governance disclosures, and market data into usable r
 
 ## Connect
 
-If you work on Korean public-company data, corporate governance, or tools for investment research, feel free to reach out.
+If you work on ESG, quantitative investing, non-financial data, or tools for investment research, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gyou-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyou)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8060--9560-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8060-9560)
