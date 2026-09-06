@@ -1,7 +1,7 @@
 ![Marco You](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8250DF&height=180&section=header&text=Marco%20You&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Quant%20Research%20%C2%B7%20Corporate%20Governance%20%C2%B7%20Climate%20Change&descAlignY=55&descSize=16)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current-Securities%20Research-1f6feb?style=flat-square" alt="Current: Securities Research" />
+  <img src="https://img.shields.io/badge/Current-Securities%20Research-1f6feb?style=flat-square" alt="Current: Investment Strategy Research" />
   <img src="https://img.shields.io/badge/Experience-VC%20%C2%B7%20Wealth%20Management%20%C2%B7%20Insurance-8250df?style=flat-square" alt="Experience: VC, Wealth Management, and Insurance" />
   <img src="https://img.shields.io/badge/Based%20in-Seoul-238636?style=flat-square" alt="Based in Seoul" />
   <img src="https://img.shields.io/badge/Previously%20in-Paris-d97706?style=flat-square" alt="Previously in Paris" />
