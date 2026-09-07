@@ -9,11 +9,9 @@
 
 I am an ESG and Quant research analyst at a Korean securities firm, with previous experience in venture capital, wealth management, and life insurance.
 
-I am currently based in Seoul after living in Paris for more than a decade.
-
 I work on methodologies that bring non-financial data into investment strategies, and on making the resulting data and research more accessible and useful to both the wider public and finance professionals.
 
-## 💻 Selected work
+## Selected work 💻
 
 - **[OpenProxy MCP](https://github.com/MarcoYou/open-proxy-mcp)**  
   Connects Korean DART regulatory filings to AI assistants for financial, ownership, governance, shareholder-meeting, and voting research.
@@ -21,7 +19,7 @@ I work on methodologies that bring non-financial data into investment strategies
 - **Open ESG Korea** *(in development · public release pending)*  
   Building a better way to access and use ESG information about Korean listed companies in AI-assisted research.
 
-## 🔧 Tools
+## Tools 🔧
 
 **Research & Data**
 
@@ -37,14 +35,14 @@ I work on methodologies that bring non-financial data into investment strategies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-24292F?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
-## 👋 Connect
+## Connect 👋
 
 If you work on ESG, quantitative investing, non-financial data, or tools for investment research, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gyou-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyou)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8060--9560-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8060-9560)
 
-## 📊 Activity
+## Activity 📊
 
 <p align="center">
   <picture>
