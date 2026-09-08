@@ -16,8 +16,8 @@ I work on methodologies that bring non-financial data into investment strategies
 - **[OpenProxy MCP](https://github.com/MarcoYou/open-proxy-mcp)**  
   Connects Korean DART regulatory filings to AI assistants for financial, ownership, governance, shareholder-meeting, and voting research.
 
-- **Open ESG Korea** *(in development · public release pending)*  
-  Building a better way to access and use ESG information about Korean listed companies in AI-assisted research.
+- **[Open ESG Korea](https://github.com/MarcoYou/open-esg-korea)**  
+  Connects Korean listed companies' ESG data — agency ratings, greenhouse-gas emissions, and governance and sustainability report filings — to AI assistants for research.
 
 ## Tools
 
